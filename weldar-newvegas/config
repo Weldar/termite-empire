@@ -1,0 +1,42 @@
+[options]
+#allow_bold = true
+#audible_bell = false
+#clickable_url = true
+#dynamic_title = true
+font = Anonymous Pro 14
+geometry = 940x520
+icon_name = terminal
+mouse_autohide = true
+scroll_on_keystroke = true
+scrollback_lines = 10000
+search_wrap = true
+hyperlinks = true
+browser = xdg-open
+cursor_blink = system
+cursor_shape = block
+size_hints = false
+scrollbar = off
+
+[colors]
+cursor = #efe2b1
+cursor_foreground = #fffcef
+foreground = #dbd1a2
+foreground_bold = #dbd1a2
+background = #a58e6e
+
+color0 = #efe2b1
+color1 = #786945
+color2 = #815c04
+color3 = #2c2c2c
+color4 = #777777
+color5 = #7b5f3d
+color6 = #3a3a3a
+color7 = #3a3a3a
+color8 = #fffcef
+color9 = #db9800
+color10 = #695416
+color11 = #7e6600
+color12 = #eac186
+color13 = #ecd98c
+color14 = #3a3a3a
+color15 = #3a3a3a
