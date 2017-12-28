@@ -1,0 +1,54 @@
+#A theme for Termite inspired by the Galactic Empire (who did nothing wrong)
+#https://github.com/Weldar/termite-empire
+
+[options]
+allow_bold = true
+browser = xdg-open
+cursor_blink = system
+clickable_url = true
+dynamic_title = true
+font = Source Code Pro 10
+geometry = 940x520
+highlight = #cc2e3e
+mouse_autohide = true
+scrollback_lines = 5000
+
+[colors]
+background = #3a3a3a
+cursor = #b2404b
+foreground = #c4c4c4
+foreground_bold = #f4f4f4
+
+#Pallet Colors
+
+#Black
+color0 = #111111
+color8 = #000000
+
+#Charcoal
+color1 = #444444
+color9 = #333333
+
+#Silver
+color2 = #777777
+color10 = #666666
+
+#Phasma
+color 3 = #bababa
+color11 = #adadad
+
+#Tundra
+color 4 = #f7f7f7
+color 12 = #efefef
+
+#Hoth
+color 5 = #def1f2
+color 13 = #d7e9ea
+
+#Blood
+color 6 = #7a0c00
+color 14 = #660a00
+
+#Imperial Guard
+color 7 = #d71805
+color 15 #da1b07
