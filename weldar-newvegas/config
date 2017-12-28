@@ -1,8 +1,8 @@
 [options]
-#allow_bold = true
-#audible_bell = false
-#clickable_url = true
-#dynamic_title = true
+allow_bold = true
+audible_bell = false
+clickable_url = true
+dynamic_title = true
 font = Anonymous Pro 14
 geometry = 940x520
 icon_name = terminal
