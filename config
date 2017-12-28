@@ -20,14 +20,15 @@ foreground = #c4c4c4
 foreground_bold = #f4f4f4
 
 #Pallet Colors
+#Includes shadow colors for 
 
 #Black
 color0 = #111111
 color8 = #000000
 
-#Charcoal
-color1 = #444444
-color9 = #333333
+#Old Republic Gold
+color1 = #ffc700
+color9 = #c9ac3a
 
 #Silver
 color2 = #777777
